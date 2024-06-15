@@ -1,0 +1,325 @@
+C:\Users\86178\Desktop\大学本科学习资料\大二下\中国软件杯\resume\resume\obj\Debug\net6.0\resume.csproj.AssemblyReference.cache
+C:\Users\86178\Desktop\大学本科学习资料\大二下\中国软件杯\resume\resume\obj\Debug\net6.0\resume.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\86178\Desktop\大学本科学习资料\大二下\中国软件杯\resume\resume\obj\Debug\net6.0\resume.AssemblyInfoInputs.cache
+C:\Users\86178\Desktop\大学本科学习资料\大二下\中国软件杯\resume\resume\obj\Debug\net6.0\resume.AssemblyInfo.cs
+C:\Users\86178\Desktop\大学本科学习资料\大二下\中国软件杯\resume\resume\obj\Debug\net6.0\resume.csproj.CoreCompileInputs.cache
+C:\Users\86178\Desktop\大学本科学习资料\大二下\中国软件杯\resume\resume\obj\Debug\net6.0\resume.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\86178\Desktop\大学本科学习资料\大二下\中国软件杯\resume\resume\obj\Debug\net6.0\resume.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\86178\Desktop\大学本科学习资料\大二下\中国软件杯\resume\resume\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\86178\Desktop\大学本科学习资料\大二下\中国软件杯\resume\resume\bin\Debug\net6.0\appsettings.json
+C:\Users\86178\Desktop\大学本科学习资料\大二下\中国软件杯\resume\resume\bin\Debug\net6.0\resume.exe
+C:\Users\86178\Desktop\大学本科学习资料\大二下\中国软件杯\resume\resume\bin\Debug\net6.0\resume.deps.json
+C:\Users\86178\Desktop\大学本科学习资料\大二下\中国软件杯\resume\resume\bin\Debug\net6.0\resume.runtimeconfig.json
+C:\Users\86178\Desktop\大学本科学习资料\大二下\中国软件杯\resume\resume\bin\Debug\net6.0\resume.dll
+C:\Users\86178\Desktop\大学本科学习资料\大二下\中国软件杯\resume\resume\bin\Debug\net6.0\resume.pdb
+C:\Users\86178\Desktop\大学本科学习资料\大二下\中国软件杯\resume\resume\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\86178\Desktop\大学本科学习资料\大二下\中国软件杯\resume\resume\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\86178\Desktop\大学本科学习资料\大二下\中国软件杯\resume\resume\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\86178\Desktop\大学本科学习资料\大二下\中国软件杯\resume\resume\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\86178\Desktop\大学本科学习资料\大二下\中国软件杯\resume\resume\obj\Debug\net6.0\staticwebassets\msbuild.resume.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\86178\Desktop\大学本科学习资料\大二下\中国软件杯\resume\resume\obj\Debug\net6.0\staticwebassets\msbuild.build.resume.props
+C:\Users\86178\Desktop\大学本科学习资料\大二下\中国软件杯\resume\resume\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.resume.props
+C:\Users\86178\Desktop\大学本科学习资料\大二下\中国软件杯\resume\resume\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.resume.props
+C:\Users\86178\Desktop\大学本科学习资料\大二下\中国软件杯\resume\resume\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\86178\Desktop\大学本科学习资料\大二下\中国软件杯\resume\resume\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\86178\Desktop\大学本科学习资料\大二下\中国软件杯\resume\resume\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\86178\Desktop\大学本科学习资料\大二下\中国软件杯\resume\resume\obj\Debug\net6.0\scopedcss\bundle\resume.styles.css
+C:\Users\86178\Desktop\大学本科学习资料\大二下\中国软件杯\resume\resume\obj\Debug\net6.0\resume.csproj.CopyComplete
+C:\Users\86178\Desktop\大学本科学习资料\大二下\中国软件杯\resume\resume\obj\Debug\net6.0\resume.dll
+C:\Users\86178\Desktop\大学本科学习资料\大二下\中国软件杯\resume\resume\obj\Debug\net6.0\refint\resume.dll
+C:\Users\86178\Desktop\大学本科学习资料\大二下\中国软件杯\resume\resume\obj\Debug\net6.0\resume.pdb
+C:\Users\86178\Desktop\大学本科学习资料\大二下\中国软件杯\resume\resume\obj\Debug\net6.0\resume.genruntimeconfig.cache
+C:\Users\86178\Desktop\大学本科学习资料\大二下\中国软件杯\resume\resume\obj\Debug\net6.0\ref\resume.dll
+D:\visualStudio workspace\SCB_ClassAssignment_backend\resume\resume\resume\obj\Debug\net6.0\resume.csproj.AssemblyReference.cache
+D:\visualStudio workspace\SCB_ClassAssignment_backend\resume\resume\resume\obj\Debug\net6.0\resume.GeneratedMSBuildEditorConfig.editorconfig
+D:\visualStudio workspace\SCB_ClassAssignment_backend\resume\resume\resume\obj\Debug\net6.0\resume.AssemblyInfoInputs.cache
+D:\visualStudio workspace\SCB_ClassAssignment_backend\resume\resume\resume\obj\Debug\net6.0\resume.AssemblyInfo.cs
+D:\visualStudio workspace\SCB_ClassAssignment_backend\resume\resume\resume\obj\Debug\net6.0\resume.csproj.CoreCompileInputs.cache
+D:\visualStudio workspace\SCB_ClassAssignment_backend\resume\resume\resume\obj\Debug\net6.0\resume.MvcApplicationPartsAssemblyInfo.cs
+D:\visualStudio workspace\SCB_ClassAssignment_backend\resume\resume\resume\obj\Debug\net6.0\resume.MvcApplicationPartsAssemblyInfo.cache
+D:\visualStudio workspace\SCB_ClassAssignment_backend\resume\resume\resume\obj\Debug\net6.0\resume.dll
+D:\visualStudio workspace\SCB_ClassAssignment_backend\resume\resume\resume\obj\Debug\net6.0\refint\resume.dll
+D:\visualStudio workspace\SCB_ClassAssignment_backend\resume\resume\resume\obj\Debug\net6.0\resume.pdb
+D:\visualStudio workspace\SCB_ClassAssignment_backend\resume\resume\resume\bin\Debug\net6.0\appsettings.Development.json
+D:\visualStudio workspace\SCB_ClassAssignment_backend\resume\resume\resume\bin\Debug\net6.0\appsettings.json
+D:\visualStudio workspace\SCB_ClassAssignment_backend\resume\resume\resume\bin\Debug\net6.0\resume.exe
+D:\visualStudio workspace\SCB_ClassAssignment_backend\resume\resume\resume\bin\Debug\net6.0\resume.deps.json
+D:\visualStudio workspace\SCB_ClassAssignment_backend\resume\resume\resume\bin\Debug\net6.0\resume.runtimeconfig.json
+D:\visualStudio workspace\SCB_ClassAssignment_backend\resume\resume\resume\bin\Debug\net6.0\resume.dll
+D:\visualStudio workspace\SCB_ClassAssignment_backend\resume\resume\resume\bin\Debug\net6.0\resume.pdb
+D:\visualStudio workspace\SCB_ClassAssignment_backend\resume\resume\resume\bin\Debug\net6.0\Google.Protobuf.dll
+D:\visualStudio workspace\SCB_ClassAssignment_backend\resume\resume\resume\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+D:\visualStudio workspace\SCB_ClassAssignment_backend\resume\resume\resume\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+D:\visualStudio workspace\SCB_ClassAssignment_backend\resume\resume\resume\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+D:\visualStudio workspace\SCB_ClassAssignment_backend\resume\resume\resume\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\visualStudio workspace\SCB_ClassAssignment_backend\resume\resume\resume\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\visualStudio workspace\SCB_ClassAssignment_backend\resume\resume\resume\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\visualStudio workspace\SCB_ClassAssignment_backend\resume\resume\resume\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\visualStudio workspace\SCB_ClassAssignment_backend\resume\resume\resume\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\visualStudio workspace\SCB_ClassAssignment_backend\resume\resume\resume\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\visualStudio workspace\SCB_ClassAssignment_backend\resume\resume\resume\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\visualStudio workspace\SCB_ClassAssignment_backend\resume\resume\resume\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\visualStudio workspace\SCB_ClassAssignment_backend\resume\resume\resume\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\visualStudio workspace\SCB_ClassAssignment_backend\resume\resume\resume\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\visualStudio workspace\SCB_ClassAssignment_backend\resume\resume\resume\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\visualStudio workspace\SCB_ClassAssignment_backend\resume\resume\resume\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\visualStudio workspace\SCB_ClassAssignment_backend\resume\resume\resume\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\visualStudio workspace\SCB_ClassAssignment_backend\resume\resume\resume\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\visualStudio workspace\SCB_ClassAssignment_backend\resume\resume\resume\bin\Debug\net6.0\MySql.Data.dll
+D:\visualStudio workspace\SCB_ClassAssignment_backend\resume\resume\resume\bin\Debug\net6.0\MySqlConnector.dll
+D:\visualStudio workspace\SCB_ClassAssignment_backend\resume\resume\resume\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\visualStudio workspace\SCB_ClassAssignment_backend\resume\resume\resume\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\visualStudio workspace\SCB_ClassAssignment_backend\resume\resume\resume\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\visualStudio workspace\SCB_ClassAssignment_backend\resume\resume\resume\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\visualStudio workspace\SCB_ClassAssignment_backend\resume\resume\resume\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\visualStudio workspace\SCB_ClassAssignment_backend\resume\resume\resume\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\visualStudio workspace\SCB_ClassAssignment_backend\resume\resume\resume\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\visualStudio workspace\SCB_ClassAssignment_backend\resume\resume\resume\bin\Debug\net6.0\System.IO.Pipelines.dll
+D:\visualStudio workspace\SCB_ClassAssignment_backend\resume\resume\resume\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\visualStudio workspace\SCB_ClassAssignment_backend\resume\resume\resume\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\visualStudio workspace\SCB_ClassAssignment_backend\resume\resume\resume\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\visualStudio workspace\SCB_ClassAssignment_backend\resume\resume\resume\bin\Debug\net6.0\System.Text.Json.dll
+D:\visualStudio workspace\SCB_ClassAssignment_backend\resume\resume\resume\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\visualStudio workspace\SCB_ClassAssignment_backend\resume\resume\resume\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\visualStudio workspace\SCB_ClassAssignment_backend\resume\resume\resume\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+D:\visualStudio workspace\SCB_ClassAssignment_backend\resume\resume\resume\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+D:\visualStudio workspace\SCB_ClassAssignment_backend\resume\resume\resume\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+D:\visualStudio workspace\SCB_ClassAssignment_backend\resume\resume\resume\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+D:\visualStudio workspace\SCB_ClassAssignment_backend\resume\resume\resume\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+D:\visualStudio workspace\SCB_ClassAssignment_backend\resume\resume\resume\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\visualStudio workspace\SCB_ClassAssignment_backend\resume\resume\resume\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\visualStudio workspace\SCB_ClassAssignment_backend\resume\resume\resume\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\visualStudio workspace\SCB_ClassAssignment_backend\resume\resume\resume\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\visualStudio workspace\SCB_ClassAssignment_backend\resume\resume\resume\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\visualStudio workspace\SCB_ClassAssignment_backend\resume\resume\resume\obj\Debug\net6.0\staticwebassets\msbuild.resume.Microsoft.AspNetCore.StaticWebAssets.props
+D:\visualStudio workspace\SCB_ClassAssignment_backend\resume\resume\resume\obj\Debug\net6.0\staticwebassets\msbuild.build.resume.props
+D:\visualStudio workspace\SCB_ClassAssignment_backend\resume\resume\resume\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.resume.props
+D:\visualStudio workspace\SCB_ClassAssignment_backend\resume\resume\resume\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.resume.props
+D:\visualStudio workspace\SCB_ClassAssignment_backend\resume\resume\resume\obj\Debug\net6.0\staticwebassets.pack.json
+D:\visualStudio workspace\SCB_ClassAssignment_backend\resume\resume\resume\obj\Debug\net6.0\staticwebassets.build.json
+D:\visualStudio workspace\SCB_ClassAssignment_backend\resume\resume\resume\obj\Debug\net6.0\staticwebassets.development.json
+D:\visualStudio workspace\SCB_ClassAssignment_backend\resume\resume\resume\obj\Debug\net6.0\scopedcss\bundle\resume.styles.css
+D:\visualStudio workspace\SCB_ClassAssignment_backend\resume\resume\resume\obj\Debug\net6.0\resume.csproj.CopyComplete
+D:\visualStudio workspace\SCB_ClassAssignment_backend\resume\resume\resume\obj\Debug\net6.0\resume.genruntimeconfig.cache
+D:\visualStudio workspace\SCB_ClassAssignment_backend\resume\resume\resume\obj\Debug\net6.0\ref\resume.dll
+D:\visualStudio workspace\SCB_ClassAssignment_backend\resume\resume\resume\obj\Debug\net6.0\resume.sourcelink.json
+D:\visualStudio workspace\SCB_ClassAssignment_backend\resume\resume\resume\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+D:\visualStudio workspace\SCB_ClassAssignment_backend\resume\resume\resume\bin\Debug\net6.0\Humanizer.dll
+D:\visualStudio workspace\SCB_ClassAssignment_backend\resume\resume\resume\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\visualStudio workspace\SCB_ClassAssignment_backend\resume\resume\resume\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\visualStudio workspace\SCB_ClassAssignment_backend\resume\resume\resume\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\visualStudio workspace\SCB_ClassAssignment_backend\resume\resume\resume\bin\Debug\net6.0\System.CodeDom.dll
+D:\visualStudio workspace\SCB_ClassAssignment_backend\resume\resume\resume\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\visualStudio workspace\SCB_ClassAssignment_backend\resume\resume\resume\bin\Debug\net6.0\ZstdSharp.dll
+E:\study\software_engineering\term_project\old_code\resume (4)\resume\resume\bin\Debug\net6.0\appsettings.Development.json
+E:\study\software_engineering\term_project\old_code\resume (4)\resume\resume\bin\Debug\net6.0\appsettings.json
+E:\study\software_engineering\term_project\old_code\resume (4)\resume\resume\bin\Debug\net6.0\Resumes\2023\7\json\0A2AAB90ECD95EDB79955BCB5C688716BAC132EC685390BFCF5DE341987B1872.json
+E:\study\software_engineering\term_project\old_code\resume (4)\resume\resume\bin\Debug\net6.0\Resumes\2023\7\json\187B09D17B545FEA891F651B8A3522F4C8D4DB90A55D69895EA83131564767CF.json
+E:\study\software_engineering\term_project\old_code\resume (4)\resume\resume\bin\Debug\net6.0\Resumes\2023\7\json\31B47A62A8597EA16D4BAD4000EB8556C6DEE42A94AC65F3EFD5049A28F2C1CB.json
+E:\study\software_engineering\term_project\old_code\resume (4)\resume\resume\bin\Debug\net6.0\Resumes\2023\7\json\345D29588201A162FA0E89AA54E217C10F79E501A01D36BCC3C80B16451A0520.json
+E:\study\software_engineering\term_project\old_code\resume (4)\resume\resume\bin\Debug\net6.0\Resumes\2023\7\json\3E109D94F98D282D1672E8FD9DC8FAC0E4E3956A3BE22C83A9A84B00C16CBAA4.json
+E:\study\software_engineering\term_project\old_code\resume (4)\resume\resume\bin\Debug\net6.0\Resumes\2023\7\json\546BD4B2CA262896EB8CE533A4A647BC43F61E359C8A414F147EDCA4335E5DB8.json
+E:\study\software_engineering\term_project\old_code\resume (4)\resume\resume\bin\Debug\net6.0\Resumes\2023\7\json\70518D561C7C0770F8014A98AF311526E83C360E69A54F13A163C3E2C370D343.json
+E:\study\software_engineering\term_project\old_code\resume (4)\resume\resume\bin\Debug\net6.0\Resumes\2023\7\json\7728BA2254B895181BA73AA7C7EB3A9C0B7226EE78E19DE2634360E84B164A97.json
+E:\study\software_engineering\term_project\old_code\resume (4)\resume\resume\bin\Debug\net6.0\Resumes\2023\7\json\967AB44E4ED72016F43D0FBD6FD20D4287A1B2D10B67B280EAF0CF153A00D86B.json
+E:\study\software_engineering\term_project\old_code\resume (4)\resume\resume\bin\Debug\net6.0\Resumes\2023\7\json\combined00036C2FA632AF8D37A3140DF63C94318614BFBAF051BD311E557F4A191B248A.json
+E:\study\software_engineering\term_project\old_code\resume (4)\resume\resume\bin\Debug\net6.0\Resumes\2023\7\json\combined0A2AAB90ECD95EDB79955BCB5C688716BAC132EC685390BFCF5DE341987B1872.json
+E:\study\software_engineering\term_project\old_code\resume (4)\resume\resume\bin\Debug\net6.0\Resumes\2023\7\json\combined31B47A62A8597EA16D4BAD4000EB8556C6DEE42A94AC65F3EFD5049A28F2C1CB.json
+E:\study\software_engineering\term_project\old_code\resume (4)\resume\resume\bin\Debug\net6.0\Resumes\2023\7\json\combined7FC2B18155F20BE7DE05E79E04CCEA7C9EF36E682B2B7D52003EF2B4F2BD1ABB.json
+E:\study\software_engineering\term_project\old_code\resume (4)\resume\resume\bin\Debug\net6.0\Resumes\2023\7\json\combinedC31032BD43BD99A12FE28EBFEEDD993519C0D591BA20AEC8DAAFB7A4E0BEB69A.json
+E:\study\software_engineering\term_project\old_code\resume (4)\resume\resume\bin\Debug\net6.0\Resumes\2023\7\json\combinedED38A607D6586149AD15467501160351C582B0B7A3C6429CF22853CC6D48F4BC.json
+E:\study\software_engineering\term_project\old_code\resume (4)\resume\resume\bin\Debug\net6.0\Resumes\2023\7\json\E874640D751A208C386813942168349E3680B5F18C001C187DBD95588B1DB509.json
+E:\study\software_engineering\term_project\old_code\resume (4)\resume\resume\bin\Debug\net6.0\Resumes\2023\7\school.json
+E:\study\software_engineering\term_project\old_code\resume (4)\resume\resume\bin\Debug\net6.0\resume.exe
+E:\study\software_engineering\term_project\old_code\resume (4)\resume\resume\bin\Debug\net6.0\resume.deps.json
+E:\study\software_engineering\term_project\old_code\resume (4)\resume\resume\bin\Debug\net6.0\resume.runtimeconfig.json
+E:\study\software_engineering\term_project\old_code\resume (4)\resume\resume\bin\Debug\net6.0\resume.dll
+E:\study\software_engineering\term_project\old_code\resume (4)\resume\resume\bin\Debug\net6.0\resume.pdb
+E:\study\software_engineering\term_project\old_code\resume (4)\resume\resume\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+E:\study\software_engineering\term_project\old_code\resume (4)\resume\resume\bin\Debug\net6.0\Google.Protobuf.dll
+E:\study\software_engineering\term_project\old_code\resume (4)\resume\resume\bin\Debug\net6.0\Humanizer.dll
+E:\study\software_engineering\term_project\old_code\resume (4)\resume\resume\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+E:\study\software_engineering\term_project\old_code\resume (4)\resume\resume\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+E:\study\software_engineering\term_project\old_code\resume (4)\resume\resume\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+E:\study\software_engineering\term_project\old_code\resume (4)\resume\resume\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\study\software_engineering\term_project\old_code\resume (4)\resume\resume\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\study\software_engineering\term_project\old_code\resume (4)\resume\resume\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\study\software_engineering\term_project\old_code\resume (4)\resume\resume\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\study\software_engineering\term_project\old_code\resume (4)\resume\resume\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\study\software_engineering\term_project\old_code\resume (4)\resume\resume\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\study\software_engineering\term_project\old_code\resume (4)\resume\resume\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\study\software_engineering\term_project\old_code\resume (4)\resume\resume\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\study\software_engineering\term_project\old_code\resume (4)\resume\resume\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\study\software_engineering\term_project\old_code\resume (4)\resume\resume\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\study\software_engineering\term_project\old_code\resume (4)\resume\resume\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\study\software_engineering\term_project\old_code\resume (4)\resume\resume\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\study\software_engineering\term_project\old_code\resume (4)\resume\resume\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\study\software_engineering\term_project\old_code\resume (4)\resume\resume\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\study\software_engineering\term_project\old_code\resume (4)\resume\resume\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\study\software_engineering\term_project\old_code\resume (4)\resume\resume\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\study\software_engineering\term_project\old_code\resume (4)\resume\resume\bin\Debug\net6.0\Mono.TextTemplating.dll
+E:\study\software_engineering\term_project\old_code\resume (4)\resume\resume\bin\Debug\net6.0\MySql.Data.dll
+E:\study\software_engineering\term_project\old_code\resume (4)\resume\resume\bin\Debug\net6.0\MySqlConnector.dll
+E:\study\software_engineering\term_project\old_code\resume (4)\resume\resume\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\study\software_engineering\term_project\old_code\resume (4)\resume\resume\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+E:\study\software_engineering\term_project\old_code\resume (4)\resume\resume\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\study\software_engineering\term_project\old_code\resume (4)\resume\resume\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\study\software_engineering\term_project\old_code\resume (4)\resume\resume\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\study\software_engineering\term_project\old_code\resume (4)\resume\resume\bin\Debug\net6.0\System.CodeDom.dll
+E:\study\software_engineering\term_project\old_code\resume (4)\resume\resume\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\study\software_engineering\term_project\old_code\resume (4)\resume\resume\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\study\software_engineering\term_project\old_code\resume (4)\resume\resume\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\study\software_engineering\term_project\old_code\resume (4)\resume\resume\bin\Debug\net6.0\System.IO.Pipelines.dll
+E:\study\software_engineering\term_project\old_code\resume (4)\resume\resume\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\study\software_engineering\term_project\old_code\resume (4)\resume\resume\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\study\software_engineering\term_project\old_code\resume (4)\resume\resume\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\study\software_engineering\term_project\old_code\resume (4)\resume\resume\bin\Debug\net6.0\System.Text.Json.dll
+E:\study\software_engineering\term_project\old_code\resume (4)\resume\resume\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\study\software_engineering\term_project\old_code\resume (4)\resume\resume\bin\Debug\net6.0\ZstdSharp.dll
+E:\study\software_engineering\term_project\old_code\resume (4)\resume\resume\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\study\software_engineering\term_project\old_code\resume (4)\resume\resume\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+E:\study\software_engineering\term_project\old_code\resume (4)\resume\resume\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+E:\study\software_engineering\term_project\old_code\resume (4)\resume\resume\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+E:\study\software_engineering\term_project\old_code\resume (4)\resume\resume\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+E:\study\software_engineering\term_project\old_code\resume (4)\resume\resume\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+E:\study\software_engineering\term_project\old_code\resume (4)\resume\resume\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\study\software_engineering\term_project\old_code\resume (4)\resume\resume\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\study\software_engineering\term_project\old_code\resume (4)\resume\resume\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\study\software_engineering\term_project\old_code\resume (4)\resume\resume\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\study\software_engineering\term_project\old_code\resume (4)\resume\resume\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\study\software_engineering\term_project\old_code\resume (4)\resume\resume\obj\Debug\net6.0\resume.csproj.AssemblyReference.cache
+E:\study\software_engineering\term_project\old_code\resume (4)\resume\resume\obj\Debug\net6.0\resume.GeneratedMSBuildEditorConfig.editorconfig
+E:\study\software_engineering\term_project\old_code\resume (4)\resume\resume\obj\Debug\net6.0\resume.AssemblyInfoInputs.cache
+E:\study\software_engineering\term_project\old_code\resume (4)\resume\resume\obj\Debug\net6.0\resume.AssemblyInfo.cs
+E:\study\software_engineering\term_project\old_code\resume (4)\resume\resume\obj\Debug\net6.0\resume.csproj.CoreCompileInputs.cache
+E:\study\software_engineering\term_project\old_code\resume (4)\resume\resume\obj\Debug\net6.0\resume.MvcApplicationPartsAssemblyInfo.cs
+E:\study\software_engineering\term_project\old_code\resume (4)\resume\resume\obj\Debug\net6.0\resume.MvcApplicationPartsAssemblyInfo.cache
+E:\study\software_engineering\term_project\old_code\resume (4)\resume\resume\obj\Debug\net6.0\staticwebassets\msbuild.resume.Microsoft.AspNetCore.StaticWebAssets.props
+E:\study\software_engineering\term_project\old_code\resume (4)\resume\resume\obj\Debug\net6.0\staticwebassets\msbuild.build.resume.props
+E:\study\software_engineering\term_project\old_code\resume (4)\resume\resume\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.resume.props
+E:\study\software_engineering\term_project\old_code\resume (4)\resume\resume\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.resume.props
+E:\study\software_engineering\term_project\old_code\resume (4)\resume\resume\obj\Debug\net6.0\staticwebassets.pack.json
+E:\study\software_engineering\term_project\old_code\resume (4)\resume\resume\obj\Debug\net6.0\staticwebassets.build.json
+E:\study\software_engineering\term_project\old_code\resume (4)\resume\resume\obj\Debug\net6.0\staticwebassets.development.json
+E:\study\software_engineering\term_project\old_code\resume (4)\resume\resume\obj\Debug\net6.0\scopedcss\bundle\resume.styles.css
+E:\study\software_engineering\term_project\old_code\resume (4)\resume\resume\obj\Debug\net6.0\resume.csproj.CopyComplete
+E:\study\software_engineering\term_project\old_code\resume (4)\resume\resume\obj\Debug\net6.0\resume.dll
+E:\study\software_engineering\term_project\old_code\resume (4)\resume\resume\obj\Debug\net6.0\refint\resume.dll
+E:\study\software_engineering\term_project\old_code\resume (4)\resume\resume\obj\Debug\net6.0\resume.pdb
+E:\study\software_engineering\term_project\old_code\resume (4)\resume\resume\obj\Debug\net6.0\resume.genruntimeconfig.cache
+E:\study\software_engineering\term_project\old_code\resume (4)\resume\resume\obj\Debug\net6.0\ref\resume.dll
+E:\study\software_engineering\term_project\old_code\resume (4)\resume\resume\bin\Debug\net6.0\openai\school.json
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\bin\Debug\net6.0\appsettings.Development.json
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\bin\Debug\net6.0\appsettings.json
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\bin\Debug\net6.0\openai\school.json
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\bin\Debug\net6.0\Resumes\2023\7\json\0A2AAB90ECD95EDB79955BCB5C688716BAC132EC685390BFCF5DE341987B1872.json
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\bin\Debug\net6.0\Resumes\2023\7\json\187B09D17B545FEA891F651B8A3522F4C8D4DB90A55D69895EA83131564767CF.json
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\bin\Debug\net6.0\Resumes\2023\7\json\31B47A62A8597EA16D4BAD4000EB8556C6DEE42A94AC65F3EFD5049A28F2C1CB.json
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\bin\Debug\net6.0\Resumes\2023\7\json\345D29588201A162FA0E89AA54E217C10F79E501A01D36BCC3C80B16451A0520.json
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\bin\Debug\net6.0\Resumes\2023\7\json\3E109D94F98D282D1672E8FD9DC8FAC0E4E3956A3BE22C83A9A84B00C16CBAA4.json
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\bin\Debug\net6.0\Resumes\2023\7\json\546BD4B2CA262896EB8CE533A4A647BC43F61E359C8A414F147EDCA4335E5DB8.json
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\bin\Debug\net6.0\Resumes\2023\7\json\70518D561C7C0770F8014A98AF311526E83C360E69A54F13A163C3E2C370D343.json
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\bin\Debug\net6.0\Resumes\2023\7\json\7728BA2254B895181BA73AA7C7EB3A9C0B7226EE78E19DE2634360E84B164A97.json
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\bin\Debug\net6.0\Resumes\2023\7\json\967AB44E4ED72016F43D0FBD6FD20D4287A1B2D10B67B280EAF0CF153A00D86B.json
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\bin\Debug\net6.0\Resumes\2023\7\json\combined00036C2FA632AF8D37A3140DF63C94318614BFBAF051BD311E557F4A191B248A.json
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\bin\Debug\net6.0\Resumes\2023\7\json\combined0A2AAB90ECD95EDB79955BCB5C688716BAC132EC685390BFCF5DE341987B1872.json
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\bin\Debug\net6.0\Resumes\2023\7\json\combined31B47A62A8597EA16D4BAD4000EB8556C6DEE42A94AC65F3EFD5049A28F2C1CB.json
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\bin\Debug\net6.0\Resumes\2023\7\json\combined7FC2B18155F20BE7DE05E79E04CCEA7C9EF36E682B2B7D52003EF2B4F2BD1ABB.json
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\bin\Debug\net6.0\Resumes\2023\7\json\combinedC31032BD43BD99A12FE28EBFEEDD993519C0D591BA20AEC8DAAFB7A4E0BEB69A.json
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\bin\Debug\net6.0\Resumes\2023\7\json\combinedED38A607D6586149AD15467501160351C582B0B7A3C6429CF22853CC6D48F4BC.json
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\bin\Debug\net6.0\Resumes\2023\7\json\E874640D751A208C386813942168349E3680B5F18C001C187DBD95588B1DB509.json
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\bin\Debug\net6.0\Resumes\2023\7\school.json
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\bin\Debug\net6.0\resume.exe
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\bin\Debug\net6.0\resume.deps.json
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\bin\Debug\net6.0\resume.runtimeconfig.json
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\bin\Debug\net6.0\resume.dll
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\bin\Debug\net6.0\resume.pdb
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\bin\Debug\net6.0\Google.Protobuf.dll
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\bin\Debug\net6.0\Humanizer.dll
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\bin\Debug\net6.0\Mono.TextTemplating.dll
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\bin\Debug\net6.0\MySql.Data.dll
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\bin\Debug\net6.0\MySqlConnector.dll
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\bin\Debug\net6.0\System.CodeDom.dll
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\bin\Debug\net6.0\System.IO.Pipelines.dll
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\bin\Debug\net6.0\System.Text.Json.dll
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\bin\Debug\net6.0\ZstdSharp.dll
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\obj\Debug\net6.0\resume.csproj.AssemblyReference.cache
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\obj\Debug\net6.0\resume.GeneratedMSBuildEditorConfig.editorconfig
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\obj\Debug\net6.0\resume.AssemblyInfoInputs.cache
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\obj\Debug\net6.0\resume.AssemblyInfo.cs
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\obj\Debug\net6.0\resume.csproj.CoreCompileInputs.cache
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\obj\Debug\net6.0\resume.MvcApplicationPartsAssemblyInfo.cs
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\obj\Debug\net6.0\resume.MvcApplicationPartsAssemblyInfo.cache
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\obj\Debug\net6.0\staticwebassets\msbuild.resume.Microsoft.AspNetCore.StaticWebAssets.props
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\obj\Debug\net6.0\staticwebassets\msbuild.build.resume.props
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.resume.props
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.resume.props
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\obj\Debug\net6.0\staticwebassets.pack.json
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\obj\Debug\net6.0\staticwebassets.build.json
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\obj\Debug\net6.0\staticwebassets.development.json
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\obj\Debug\net6.0\scopedcss\bundle\resume.styles.css
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\obj\Debug\net6.0\resume.csproj.CopyComplete
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\obj\Debug\net6.0\resume.dll
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\obj\Debug\net6.0\refint\resume.dll
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\obj\Debug\net6.0\resume.pdb
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\obj\Debug\net6.0\resume.genruntimeconfig.cache
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\obj\Debug\net6.0\ref\resume.dll
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\bin\Debug\net6.0\Resumes\2024\5\json\C0A55A0D2F81F6F4E13CAB46C3EFB62D824BE6970BF72C5A67EA487431A63540.json
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\bin\Debug\net6.0\MailKit.dll
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\bin\Debug\net6.0\MimeKit.dll
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\bin\Debug\net6.0\System.Formats.Asn1.dll
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\bin\Debug\net6.0\Resumes\2024\5\json\2895E32997961E5D43BEAAC2385EE1FA919E14043F1384BE509F4D653F8DFEAF.json
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\bin\Debug\net6.0\Resumes\2024\5\json\230B1597AED4376863270B9F565BD8E3E11CF8B8704AEB4526250BDC934B50B8.json
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\bin\Debug\net6.0\Resumes\2024\5\json\5ED52233AFA5FDE4438D9469397A8591D757C10889CC03DF34887B41277F8BB1.json
+E:\study\software_engineering\term_project\old_code\resume\resume\resume\bin\Debug\net6.0\Resumes\2024\5\json\57636BCA28F265AA4B3F890FD1DCBB73615A76B2B4DF3E3F486A35F138D4A0B3.json
+D:\visualStudio workspace\SCB_ClassAssignment_backend\resume\resume\resume\bin\Debug\net6.0\openai\school.json
+D:\visualStudio workspace\SCB_ClassAssignment_backend\resume\resume\resume\bin\Debug\net6.0\MailKit.dll
+D:\visualStudio workspace\SCB_ClassAssignment_backend\resume\resume\resume\bin\Debug\net6.0\MimeKit.dll
+D:\visualStudio workspace\SCB_ClassAssignment_backend\resume\resume\resume\bin\Debug\net6.0\System.Formats.Asn1.dll
+D:\visualStudio workspace\SCB_ClassAssignment_backend\resume\resume\resume\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\visualStudio workspace\SCB_ClassAssignment_backend\resume\resume\resume\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
